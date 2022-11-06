@@ -1,0 +1,6 @@
+[submodule "memchiki"]
+	path = memchiki
+	url = https://github.com/aUser972/memchiki/
+[submodule "akvarel"]
+	path = akvarel
+	url = git@github.com:aUser972/akvarel.git
